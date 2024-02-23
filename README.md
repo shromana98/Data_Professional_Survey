@@ -14,13 +14,15 @@ The survey data was cleaned using the Power Query Editor, and a Power BI dashboa
  
   3. Python is the most popular programming language among data professionals, followed by R.
      
-  4. Phd degree holders earn higher salaries on average than other degrees.
+  4. PhD degree holders earn higher salaries on average than other degrees.
      
   5. Majority of the people who completed this survey are from United States.
 
-  6.Average age of the professionals who completed the survey is 30 years approximately.
+  6. Average age of the professionals who completed the survey is 30 years approximately.
   
   7. Majority of the people are switching their career into data domain i.e: 59.05% of the total people attended the survey switched their career to data domain.
     
   8. Also while switching their career around 42% find it neither easy nor difficult to switch their career while 25% find it difficult in switching their career to data domain.
+
+  9. Average salary of female professional is slightly higher than male professionals.
 
