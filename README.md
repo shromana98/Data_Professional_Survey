@@ -8,9 +8,9 @@ The survey data was cleaned using the Power Query Editor, and a Power BI dashboa
 
 # Key Findings: 
 
-	1. Data professionals are satisfied with their work-life balance, but they are not satisfied with their salaries.
+  1. Data professionals are satisfied with their work-life balance, but they are not satisfied with their salaries.
  
-	2. Data scientists earn higher salaries on average than data engineers, data analysts, and other professionals in the field. 
+  2. Data scientists earn higher salaries on average than data engineers, data analysts, and other professionals in the field. 
  
   3. Python is the most popular programming language among data professionals, followed by R.
      
